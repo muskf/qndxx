@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <style>
+        h1{
+            text-align:center;
+        }
+        h2{
+            text-align:center;
+        }
+        h3{
+            text-align:center;
+        }
+        </style>
+    <head>
+        <meta charset="UTF-8">
+        <title>青年大学习工具</title>
+    </head>
+    <body>
+<p>
+    <h1>
+    请注意期数,在截图之前请先过后台检测，观看几秒即可
+</h1>
+</p>
+<p>
+<h2>请使用微信打开此网站！！！</h2></p>
+<p><h3>本站点仅供学习交流!</h3></p>
+<center>  <a href="/dxx.php">
+    <button style="height:70px;width:200px;">去截图</button>
+</a></center> 
+<p>
+    <center>
+<a href="https://h5.cyol.com/special/daxuexi/daxuexiall13/m.html?t=1">
+    <button style="height:70px;width:200px;">过后台</button>
+</a>
+</center> 
+</p>
+    </body>
+</html>
