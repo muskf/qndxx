@@ -9,6 +9,9 @@ window.onload = function onWindowLoad(){
 }
 
 function requestData(){
+
+   appendLogText("向", requestUrl, "请求数据中");
+
    //创建新的xhr对象
    let xhr = new XMLHttpRequest();
    
@@ -16,11 +19,13 @@ function requestData(){
    xhr.onreadystatechange = function(){
        if (xhr.readyState === 4 /* 下载操作已完成 https://developer.mozilla.org/zh-CN/docs/Web/API/XMLHttpRequest/readyState */){
        
+          appendLogText("已下载", requestUrl, "状态", xhr.status);
+
           //判断本次下载的状态码都是多少
           if (xhr.status === 200){
              updateView(JSON.parse(xhr.responseText));
           } else {
-             alert("获取失败:" + xhr.status);
+             appendLogText("获取失败");
           }
        }
    }
@@ -33,20 +38,36 @@ function requestData(){
 const mUrlPattern = "https://h5.cyol.com/special/daxuexi/{}/m.html"
 const imgUrlPattern = "https://h5.cyol.com/special/daxuexi/{}/images/end.jpg"
 function updateView(data){
-   alert("updateView: " + JSON.stringify(data));
-   
+   appendLogText("获取图片链接");
+
    // 取最后一个
    let key = Object.keys(data).slice(-1);
    
+   appendLogText("最新一期大学习 key:", key);
+
    //let mUrl = mUrlPattern.replace(/{}/, key);
    let imgUrl = imgUrlPattern.replace(/{}/, key);
    
-   setDisplayImg(imgUrl);
-   //document.getElementById("mUrl").innerHTML = mUrl;
+   appendLogText("已获取图片url:", imgUrl);
+   
+   setTimeout (() => {
+      setDisplayImg(imgUrl);
+   }, 3000);
+}
+
+function appendLogText(...textList){
+   const elem = document.getElementById("log_text");
+   let text = elem.innerText ?? "";
+   text += textList.join(" ") + "\n";
+   elem.innerText = text;
 }
 
 function setDisplayImg(imgUrl){
-   document.getElementById("end_img").setAttribute("src", imgUrl);
+   const logTextElem = document.getElementById("log_text");
+   logTextElem.innerText = "";
+   const elem = document.getElementById("end_img");
+   elem.setAttribute("src", imgUrl);
+   elem.classList.add("fullScreenImg");
 }
 
 function setTitle(text){
@@ -56,19 +77,3 @@ function setTitle(text){
       document.title = '"青年大学习"';
    }
 }
-
-/* unknown code
-
-       document.title = "青年大学习"2022年第20期; //标题同步暂时没写
-   document.setTitle = function(t) {
-       var i = document.createElement('iframe');
-       i.src = '/wechat/images/nopng.png';
-       i.style.display = 'none';
-       i.onload = function() {
-          setTimeout(function(){
-             i.remove();
-          }, 9);
-       }
-       document.body.appendChild(i);
-   }
-*/
