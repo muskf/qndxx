@@ -1,0 +1,929 @@
+{
+   "daxuexiall": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "http://h5.cyol.com/special/daxuexi/daxuexiall/m.html",
+      "signature": "fc8048297f1245cfd180f8c76cd1148f2cbc1605",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=http://h5.cyol.com/special/daxuexi/daxuexiall/m.html"
+   },
+   "rclojmfh12": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "http://h5.cyol.com/special/daxuexi/9rclojmfh12/m.html",
+      "signature": "96a3c352319907104af9665aa743302f3b340da8",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=http://h5.cyol.com/special/daxuexi/9rclojmfh12/m.html"
+   },
+   "klpughetsg": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "http://h5.cyol.com/special/daxuexi/klpughetsg/m.html",
+      "signature": "eb66b355a4004a3fbdb2f07b47f6dff7e0dfd3ea",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=http://h5.cyol.com/special/daxuexi/klpughetsg/m.html"
+   },
+   "wzquanhui": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "http://h5.cyol.com/special/daxuexi/wzquanhui/m.html",
+      "signature": "7955299378c974b1586b47af0ee39e2fa1a98722",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=http://h5.cyol.com/special/daxuexi/wzquanhui/m.html"
+   },
+   "judecorqx": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "http://h5.cyol.com/special/daxuexi/judecorqx/m.html",
+      "signature": "4bd84ac8b4d6dd77c3ee5eb535fcf2edded94568",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=http://h5.cyol.com/special/daxuexi/judecorqx/m.html"
+   },
+   "oadrpgvnys": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "http://h5.cyol.com/special/daxuexi/oadrpgvnys/m.html",
+      "signature": "90c52f86ddf82eb844f988dcc2a25acffd8a5735",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=http://h5.cyol.com/special/daxuexi/oadrpgvnys/m.html"
+   },
+   "lfvuyhztrd": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "http://h5.cyol.com/special/daxuexi/lfvuyhztrd/m.html",
+      "signature": "f6a7f69342f007fc4c3ea9c0cd8572b551452e7c",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=http://h5.cyol.com/special/daxuexi/lfvuyhztrd/m.html"
+   },
+   "qu1ior0dx5": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "http://h5.cyol.com/special/daxuexi/qu1ior0dx5/m.html",
+      "signature": "a8d2e7c4e3d9aaffc60e4292d4ddb6602903aa1b",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=http://h5.cyol.com/special/daxuexi/qu1ior0dx5/m.html"
+   },
+   "edxasojtbc": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "http://h5.cyol.com/special/daxuexi/edxasojtbc/m.html",
+      "signature": "5a2cd9e7a653cc2dc51f3282c5759d7928358f9e",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=http://h5.cyol.com/special/daxuexi/edxasojtbc/m.html"
+   },
+   "hjklertypx": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "http://h5.cyol.com/special/daxuexi/hjklertypx/m.html",
+      "signature": "d1aa37b0a729c1b6d756db85563da1ecb072a217",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=http://h5.cyol.com/special/daxuexi/hjklertypx/m.html"
+   },
+   "hpnvylaxiu": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "http://h5.cyol.com/special/daxuexi/hpnvylaxiu/m.html",
+      "signature": "4493231698b441494919e2639868b0574b33dc33",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=http://h5.cyol.com/special/daxuexi/hpnvylaxiu/m.html"
+   },
+   "jcedfolaeb": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "http://h5.cyol.com/special/daxuexi/jcedfolaeb/m.html",
+      "signature": "834babaccb8c2f4523d29a5555a3e44e095eb103",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=http://h5.cyol.com/special/daxuexi/jcedfolaeb/m.html"
+   },
+   "lduvrxfhae": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/lduvrxfhae/m.html",
+      "signature": "d6cf2b0bc0115a8e9a795404e12226bec1589d98",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/lduvrxfhae/m.html"
+   },
+   "aqz3ws1xa7": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/aqz3ws1xa7/m.html",
+      "signature": "d19836930d0b7ab075d0b01fae03e1f8862fb367",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/aqz3ws1xa7/m.html"
+   },
+   "a3cuyz2re5": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/a3cuyz2re5/m.html",
+      "signature": "cbcb21fe6bcc89ad13b59aee93c331c30fe2e5c2",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/a3cuyz2re5/m.html"
+   },
+   "ay4pxe01cr": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/ay4pxe01cr/m.html",
+      "signature": "447be61e8e5be91c384a167415c74a347d1c5a41",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/ay4pxe01cr/m.html"
+   },
+   "a4nr0x6flx": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/a4nr0x6flx/m.html",
+      "signature": "2a449037c8e8040e487cd3606e033fb715d2be88",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/a4nr0x6flx/m.html"
+   },
+   "au4le1xcf3": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/au4le1xcf3/m.html",
+      "signature": "4e0f5d22ea3aa106e7e4f6a7d5d536f60b5a06f5",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/au4le1xcf3/m.html"
+   },
+   "am4r2ione0": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/am4r2ione0/m.html",
+      "signature": "e294a02d02f01c15af51e042d87f125897b8809b",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/am4r2ione0/m.html"
+   },
+   "alp4e2de7h": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/alp4e2de7h/m.html",
+      "signature": "4cf5f1fbead77177e0ebade3c113254ba4186823",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/alp4e2de7h/m.html"
+   },
+   "ak5ed0bs11": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/ak5ed0bs11/m.html",
+      "signature": "3f18f037f87c05c6f01c59eaece14c1bfb50649f",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/ak5ed0bs11/m.html"
+   },
+   "a5je1cd9rd": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/a5je1cd9rd/m.html",
+      "signature": "3f1be5bdb3709df77eddbc4b12f306a5af49d082",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/a5je1cd9rd/m.html"
+   },
+   "af5dp2x6vc": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/af5dp2x6vc/m.html",
+      "signature": "830d8d611bde0ffdc3f80c9d53c30b0081d088de",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/af5dp2x6vc/m.html"
+   },
+   "a6dg0sx2nv": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/a6dg0sx2nv/m.html",
+      "signature": "7b93025ccbcb93838190b23778f083c13ca8ae71",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/a6dg0sx2nv/m.html"
+   },
+   "az6r1gs0fy": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/az6r1gs0fy/m.html",
+      "signature": "7933ce2cf9a55989b27f39c23429e5f766a4975c",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/az6r1gs0fy/m.html"
+   },
+   "at6ex1jy6b": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/at6ex1jy6b/m.html",
+      "signature": "6ca3f2fb4ee365eba034993fd65d140c9304fd89",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/at6ex1jy6b/m.html"
+   },
+   "a6kgx2sf4t": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/a6kgx2sf4t/m.html",
+      "signature": "a52b32fb824f198204c1569a148382e6327d76bb",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/a6kgx2sf4t/m.html"
+   },
+   "ac7fx0es1z": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/ac7fx0es1z/m.html",
+      "signature": "2c358ecef00dc2ecde68bf273df5458192312968",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/ac7fx0es1z/m.html"
+   },
+   "a7je0np8ec": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/a7je0np8ec/m.html",
+      "signature": "e67029b7932f64e9d369d38acb4de7ee4c8124c8",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/a7je0np8ec/m.html"
+   },
+   "aa7cr1vgb4": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/aa7cr1vgb4/m.html",
+      "signature": "7b9ddb7a0ff091e996acf3944f6e36af58c7bae7",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/aa7cr1vgb4/m.html"
+   },
+   "an7rt2e1of": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/an7rt2e1of/m.html",
+      "signature": "11de78742aa4aa57e032539d5c24c29602872a66",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/an7rt2e1of/m.html"
+   },
+   "af7ina30ly": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/af7ina30ly/m.html",
+      "signature": "2efc2a6b39b682ee49143cc9154be309a2822d10",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/af7ina30ly/m.html"
+   },
+   "bq9we1g5wq": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/bq9we1g5wq/m.html",
+      "signature": "7ac02b6c826c826de3bd0a561f7008a7b03c072f",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/bq9we1g5wq/m.html"
+   },
+   "bq2hwo9h7e": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/bq2hwo9h7e/m.html",
+      "signature": "a4835a9fb27ff44ad81a4d622abb9db935d213a4",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/bq2hwo9h7e/m.html"
+   },
+   "bb1c0hk1bv": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/bb1c0hk1bv/m.html",
+      "signature": "52911729f1a3255411d95584d5a105204a7c2e9f",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/bb1c0hk1bv/m.html"
+   },
+   "bb1fd1h8de": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/bb1fd1h8de/m.html",
+      "signature": "546065c770bfc392f7eb3c90d1cf59d3d5207c3e",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/bb1fd1h8de/m.html"
+   },
+   "btw1mk2g5s": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/btw1mk2g5s/m.html",
+      "signature": "29bee3e30b527c7370d5c4e734e686a4603ca5c7",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/btw1mk2g5s/m.html"
+   },
+   "byw1m1kn1s": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/byw1m1kn1s/m.html",
+      "signature": "aae3b787c89e9674183d68fe8788a861b0f95c0d",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/byw1m1kn1s/m.html"
+   },
+   "bu1e8p1kxg": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/bu1e8p1kxg/m.html",
+      "signature": "e1f52bf2222f57f5f90f17481b97953e5f9253e8",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/bu1e8p1kxg/m.html"
+   },
+   "bie1sd1g5c": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/bie1sd1g5c/m.html",
+      "signature": "ccc5d87650f127ebacd501d9183474eab975525f",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/bie1sd1g5c/m.html"
+   },
+   "lzquanhui": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/lzquanhui/m.html",
+      "signature": "0db5512be7f67bc159903dc88a4f57ac3be98c0a",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/lzquanhui/m.html"
+   },
+   "bom1sh2g9k": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/bom1sh2g9k/m.html",
+      "signature": "ce71957d6850252f3fd4bdb2f4c20c00476910fc",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/bom1sh2g9k/m.html"
+   },
+   "bpj1dg2g6v": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/bpj1dg2g6v/m.html",
+      "signature": "ebe9f7f3e4cdf39c1f5007db33e0044e4291e33b",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/bpj1dg2g6v/m.html"
+   },
+   "bsz1fk1u3w": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/bsz1fk1u3w/m.html",
+      "signature": "0989ef2b524b14410d902e414c530d94e7bf87c7",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/bsz1fk1u3w/m.html"
+   },
+   "bd1kh2uw0m": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/bd1kh2uw0m/m.html",
+      "signature": "cc221490a1c8442d79b77f7713b7f47ba2bb87f4",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/bd1kh2uw0m/m.html"
+   },
+   "bf1avt2y7q": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/bf1avt2y7q/m.html",
+      "signature": "96d890120055ecaeb7c2c671597fb699d2979dcd",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/bf1avt2y7q/m.html"
+   },
+   "bg1cup0t3k": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/bg1cup0t3k/m.html",
+      "signature": "c0a52e33c2bacfd49468fd0eef8e0a2eab35f6a9",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/bg1cup0t3k/m.html"
+   },
+   "cq2hkv2t8d": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/cq2hkv2t8d/m.html",
+      "signature": "8e509b65db67ceb39a4aec43fdde271af60a2f2e",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/cq2hkv2t8d/m.html"
+   },
+   "cw3bdr0k7m": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/cw3bdr0k7m/m.html",
+      "signature": "342db0d58ad7c811136fcfb4c28c7ade9299363e",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/cw3bdr0k7m/m.html"
+   },
+   "cep3js1vq4": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/cep3js1vq4/m.html",
+      "signature": "df4cac7d6f44b9dde399e64aa5565922acefc2e4",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/cep3js1vq4/m.html"
+   },
+   "cr3fn2gf1b": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/cr3fn2gf1b/m.html",
+      "signature": "35d612e9bc755383ad5a7e500912f01859b0e143",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/cr3fn2gf1b/m.html"
+   },
+   "ct3fd2g8mp": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/ct3fd2g8mp/m.html",
+      "signature": "ada18fc2beb6a605d78c7ccc2182de6dc1c8b2a9",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/ct3fd2g8mp/m.html"
+   },
+   "cy4kb0zq4c": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/cy4kb0zq4c/m.html",
+      "signature": "4c50e5acaf935a0e03f1abc7de13ecbafa036bcc",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/cy4kb0zq4c/m.html"
+   },
+   "cus4hz1kx1": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/cus4hz1kx1/m.html",
+      "signature": "4dd929d0e217b21f19308f5e1733cf2b810fdb74",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/cus4hz1kx1/m.html"
+   },
+   "ci4mr1pa8h": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/ci4mr1pa8h/m.html",
+      "signature": "d15bd06a68dcb1fb664a8e7ced7108b72519a58c",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/ci4mr1pa8h/m.html"
+   },
+   "cod4a2tb5v": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/cod4a2tb5v/m.html",
+      "signature": "ef7cebc6f3f1e07a8e497d54565d669e9ed839bc",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/cod4a2tb5v/m.html"
+   },
+   "cp5hkal0k2": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/cp5hkal0k2/m.html",
+      "signature": "95c99382262f136ce6d7d6ec0f1ba6bf04fffc7b",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/cp5hkal0k2/m.html"
+   },
+   "ca5hs0kn5x": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/ca5hs0kn5x/m.html",
+      "signature": "48d897463f993157b287ff6f31d9e0e882435799",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/ca5hs0kn5x/m.html"
+   },
+   "cs5hdg0ha9": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/cs5hdg0ha9/m.html",
+      "signature": "4360e66de4c1625e602eaf14551fa99763b22899",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/cs5hdg0ha9/m.html"
+   },
+   "cd5nkg1yo6": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/cd5nkg1yo6/m.html",
+      "signature": "db887c52408dad45ddb78f0a707d71ee32b2bb17",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/cd5nkg1yo6/m.html"
+   },
+   "cf5nw2pa3w": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/cf5nw2pa3w/m.html",
+      "signature": "fe48cd4dc93b050618f6e5b31c40078090a449d9",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/cf5nw2pa3w/m.html"
+   },
+   "cg5gh3ti0q": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/cg5gh3ti0q/m.html",
+      "signature": "f2b7d1f53b39767717f3366fb221b8195e55c320",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/cg5gh3ti0q/m.html"
+   },
+   "ch6jdu0m7a": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/ch6jdu0m7a/m.html",
+      "signature": "0dcb301004abcfc70c813abf6804dfec67064d07",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/ch6jdu0m7a/m.html"
+   },
+   "cj6nzp1q3t": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/cj6nzp1q3t/m.html",
+      "signature": "090c45277fb7fce8f82bcb6597b375e7bff2d044",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/cj6nzp1q3t/m.html"
+   },
+   "ck6hfr2g0y": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/ck6hfr2g0y/m.html",
+      "signature": "3fcf28171960edda994675f2343ce1d040d3e76a",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/ck6hfr2g0y/m.html"
+   },
+   "dqf9nk0c5w": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/dqf9nk0c5w/m.html",
+      "signature": "0eccd85a8175d04c4554835476bf65c55e2cdd31",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/dqf9nk0c5w/m.html"
+   },
+   "dw9jkp1n2x": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/dw9jkp1n2x/m.html",
+      "signature": "f5645820b282b23dab1c3edaca9b91efb762d880",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/dw9jkp1n2x/m.html"
+   },
+   "de9ka1p9mz": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/de9ka1p9mz/m.html",
+      "signature": "103f24b98ce58b07a55576364e734a0b4b79ced4",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/de9ka1p9mz/m.html"
+   },
+   "dr9ja2jkc6": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/dr9ja2jkc6/m.html",
+      "signature": "9f707bf1930b0ecb9933172d634d1edebdfc111c",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/dr9ja2jkc6/m.html"
+   },
+   "dt1sh0djd1": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/dt1sh0djd1/m.html",
+      "signature": "31697536ba740a733b455f8ccdb9eee28428df00",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/dt1sh0djd1/m.html"
+   },
+   "dy1mb1kg6d": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/dy1mb1kg6d/m.html",
+      "signature": "afed6e486f17c943cafdc2a9324f70c65d3b8358",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/dy1mb1kg6d/m.html"
+   },
+   "di1kh2hp4j": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/di1kh2hp4j/m.html",
+      "signature": "ae44d9953fa620e8a3a5545605177b79612e2453",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/di1kh2hp4j/m.html"
+   },
+   "dok1p3vh1x": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/dok1p3vh1x/m.html",
+      "signature": "1c9f8865e8d09db02d28067a4b7a4a126bdc9c1b",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/dok1p3vh1x/m.html"
+   },
+   "dp1bsq1us7": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/dp1bsq1us7/m.html",
+      "signature": "955231b8af385f7b172466c8c77c14d1f985afae",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/dp1bsq1us7/m.html"
+   },
+   "da1gbw1x4m": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/da1gbw1x4m/m.html",
+      "signature": "c725804fb0c95f00bbcdc4f6a76c5be5d06bd0e9",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/da1gbw1x4m/m.html"
+   },
+   "ds1vd2gi1n": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/ds1vd2gi1n/m.html",
+      "signature": "58399047a22efbeb4475d9fe0539501cf230d12e",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/ds1vd2gi1n/m.html"
+   },
+   "dd1hp2mx8u": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/dd1hp2mx8u/m.html",
+      "signature": "7fdbf1bf95c48aedb4ff9c20dca1a5d5dd1562bf",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/dd1hp2mx8u/m.html"
+   },
+   "df1h2u0k5n": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/df1h2u0k5n/m.html",
+      "signature": "3041a9657729bc58d7a329f24175da4910a62129",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/df1h2u0k5n/m.html"
+   },
+   "dg1m2kw1e2": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/dg1m2kw1e2/m.html",
+      "signature": "51d858afdf89f505e3cc8242ec1c5f13e0df08f6",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/dg1m2kw1e2/m.html"
+   },
+   "dh1p2ja1m9": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/dh1p2ja1m9/m.html",
+      "signature": "3d259e9ab9a53475a6084fa81593dac417225a66",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/dh1p2ja1m9/m.html"
+   },
+   "du1nj1a7sg": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/du1nj1a7sg/m.html",
+      "signature": "14cffd5b8725c8834f0dc6b82efc2eea9d7eabf6",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/du1nj1a7sg/m.html"
+   },
+   "fk2hp2n7xv": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/fk2hp2n7xv/m.html",
+      "signature": "f67dbd37ad6f9e10b31bde606817f1f989e8b0c7",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/fk2hp2n7xv/m.html"
+   },
+   "fw3ka0yx6z": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/fw3ka0yx6z/m.html",
+      "signature": "dcbf4d5821d22849bd5d1385c0fe778596e02d59",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/fw3ka0yx6z/m.html"
+   },
+   "fe3ao1cm3k": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/fe3ao1cm3k/m.html",
+      "signature": "c344f6f3e6337960ede542ffdb17fa76c088b3fd",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/fe3ao1cm3k/m.html"
+   },
+   "fr3np2q0vg": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/fr3np2q0vg/m.html",
+      "signature": "03413dd10c7553ef212a253b08af9238111f1cec",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/fr3np2q0vg/m.html"
+   },
+   "ft3xk2ap7q": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/ft3xk2ap7q/m.html",
+      "signature": "7d0128363a42d267d8ba358cc5926575dc2964ba",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/ft3xk2ap7q/m.html"
+   },
+   "fy4cz0q3sa": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/fy4cz0q3sa/m.html",
+      "signature": "b2b2746de1bd6697ef9b1a6eefaf7afac8f47ec3",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/fy4cz0q3sa/m.html"
+   },
+   "fu4nh1pd0k": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/fu4nh1pd0k/m.html",
+      "signature": "183af298f30f00ee4b8ff61a8b4213cda1007bd0",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/fu4nh1pd0k/m.html"
+   },
+   "fi4bq1cx7e": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/fi4bq1cx7e/m.html",
+      "signature": "76561a46fbd9430e216a10a879db5e99fda80d05",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/fi4bq1cx7e/m.html"
+   },
+   "fox4w2cd4t": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/fox4w2cd4t/m.html",
+      "signature": "ecfb9db1c2515afb580395e0169cd94b94303edd",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/fox4w2cd4t/m.html"
+   },
+   "fp5jz0cq8v": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/fp5jz0cq8v/m.html",
+      "signature": "b69ef789aba0bf6c2f6cdc1ef04730faa3f5554b",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/fp5jz0cq8v/m.html"
+   },
+   "fa5nx1s5jw": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/fa5nx1s5jw/m.html",
+      "signature": "e7b9c5ba753ba8d152865cdaa15d4fbff77d635c",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/fa5nx1s5jw/m.html"
+   },
+   "fs5bv2kq2d": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/fs5bv2kq2d/m.html",
+      "signature": "c041f8fb7510820bbab375407e2904d4b1044dd4",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/fs5bv2kq2d/m.html"
+   },
+   "fd5qx2op9j": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/fd5qx2op9j/m.html",
+      "signature": "3e5a8ef4f6f521c9761414b6ca276a1192584408",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/fd5qx2op9j/m.html"
+   },
+   "ff6km0g5ex": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/ff6km0g5ex/m.html",
+      "signature": "08ffbf5d3b2f5faee24fe124eaa690d990e87ad5",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/ff6km0g5ex/m.html"
+   },
+   "fg6pq1mx2s": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/fg6pq1mx2s/m.html",
+      "signature": "9761a403d342eefc6b656a5eab67af99155c32f7",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/fg6pq1mx2s/m.html"
+   },
+   "fh6ax2w0ky": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/fh6ax2w0ky/m.html",
+      "signature": "a805bd0c665232de16a67329eaa9c0994520481e",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/fh6ax2w0ky/m.html"
+   },
+   "fj7ap0c3qm": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/fj7ap0c3qm/m.html",
+      "signature": "77eb0c69e7c476592ccd80b25967a5fdd8edb178",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/fj7ap0c3qm/m.html"
+   },
+   "fkz7v0e3hd": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/fkz7v0e3hd/m.html",
+      "signature": "a712d959723129eb3e15fb883c4be8fcf9a59ffe",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/fkz7v0e3hd/m.html"
+   },
+   "flh9ab2wp5": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/flh9ab2wp5/m.html",
+      "signature": "66eccaf0f3c5dbd4e79a95be4c43a48e778a4f4e",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/flh9ab2wp5/m.html"
+   },
+   "fz1qk1n2s0": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/fz1qk1n2s0/m.html",
+      "signature": "e8f5f70c292450a15c0826da303ec9bea070be76",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/fz1qk1n2s0/m.html"
+   },
+   "fx1hy1w2c7": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/fx1hy1w2c7/m.html",
+      "signature": "48a7c82ee1f4de7010adf9ea9c11adeb81b69971",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/fx1hy1w2c7/m.html"
+   },
+   "fc1sw2g1h1": {
+      "appId": "wx30b9bfd6e0063ff9",
+      "ticket": "sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A",
+      "noncestr": "dwQJ1AOnOt3iAuYQ",
+      "timestamp": "1703865601",
+      "url": "https://h5.cyol.com/special/daxuexi/fc1sw2g1h1/m.html",
+      "signature": "7e297a3243730f30d3d97d6d38c81b61957169c9",
+      "rawString": "jsapi_ticket=sM4AOVdWfPE4DxkXGEs8VI7tIcKzy9vitfIiocWQa9Z1a1_svMRn-ex8dcumt--cW5b26Bgg-qPubtNpWVyF6A&noncestr=dwQJ1AOnOt3iAuYQ&timestamp=1703865601&url=https://h5.cyol.com/special/daxuexi/fc1sw2g1h1/m.html"
+   }
+}
