@@ -1,7 +1,9 @@
 // http://h5.cyol.com/special/weixin/sign.json
 // 但是没办法直接填上边的链接，因为跨域问题
 // 这里直接保存下来
-let requestUrl = "./dxxdata.json";
+//let requestUrl = "./dxxdata.json";
+
+let requestUrl = "https://api.badlion.top/cyol";
 
 window.onload = function onWindowLoad(){
    //没有太大的意义，只不过明晰了步骤
@@ -23,7 +25,8 @@ function requestData(){
 
           //判断本次下载的状态码都是多少
           if (xhr.status === 200){
-             updateView(JSON.parse(xhr.responseText));
+             const data = JSON.parse(xhr.responseText);
+             updateView(data);
           } else {
              appendLogText("获取失败");
           }
