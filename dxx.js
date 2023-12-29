@@ -10,32 +10,23 @@ window.onload = function onWindowLoad(){
    requestData();
 }
 
-function requestData(){
+async function requestData(){
 
    appendLogText("向", requestUrl, "请求数据中");
-
-   //创建新的xhr对象
-   let xhr = new XMLHttpRequest();
    
-   // 监听xhr状态
-   xhr.onreadystatechange = function(){
-       if (xhr.readyState === 4 /* 下载操作已完成 https://developer.mozilla.org/zh-CN/docs/Web/API/XMLHttpRequest/readyState */){
-       
-          appendLogText("已下载", requestUrl, "状态", xhr.status);
-
-          //判断本次下载的状态码都是多少
-          if (xhr.status === 200){
-             const data = JSON.parse(xhr.responseText);
-             updateView(data);
-          } else {
-             appendLogText("获取失败");
-          }
-       }
+   
+   let response;
+   
+   try {
+      response = await axios.get(requestUrl);
+   } catch(e) {
+      appendLogText("请求出现错误", e);
+      return;
    }
-   
-   //发送请求
-   xhr.open("get", requestUrl, true);
-   xhr.send();
+   appendLogText("获取数据成功");
+
+   const { data } = response;
+   updateView(data);
 }
 
 const mUrlPattern = "https://h5.cyol.com/special/daxuexi/{}/m.html"
